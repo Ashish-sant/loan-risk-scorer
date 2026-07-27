@@ -4,6 +4,12 @@ A full-stack machine learning application that predicts the probability a loan a
 
 The explainability layer mirrors how real, regulated credit systems must justify their lending decisions (adverse-action requirements), which sets this apart from a standard black-box classifier.
 
+## Screenshots
+
+![Risk assessment](screenshots/app.png)
+
+![Explanation with SHAP factors](screenshots/explanation.png)
+
 ## What it does
 
 1. A user enters an applicant's financial details (credit utilization, income, debt ratio, payment history, etc.)
